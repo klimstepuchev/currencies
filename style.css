@@ -1,0 +1,25 @@
+body {
+    font-size: 20px;
+}
+
+.currencies-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.currencies-card-title {
+    margin-right: 20px;
+    font-size: 20px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+    font-size: 25px;
+    background: #7e7e7e;
+}
+
+.currencies-card-value {
+    margin-right: 10px;
+}
